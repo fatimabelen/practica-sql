@@ -1,4 +1,4 @@
-#Práctica de SQL
+# Práctica de SQL
 
 En este repositorio se encuentran ejercicios de práctica del lenguaje SQL. Utilizo principalmente SQL Server y MYSQL. 
 
