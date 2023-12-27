@@ -1,6 +1,6 @@
 # Práctica de SQL
 
-En este repositorio se encuentran ejercicios de práctica del lenguaje SQL. Utilizo principalmente SQL Server y MYSQL. 
+En este repositorio se encuentran ejercicios de práctica del lenguaje SQL. Utilizo principalmente SQL Server y MySQL. 
 
 ## Sobre workshop-adventureworks-sqlserver:
 El workshop de AdventureWorks en SQL Server es una clase de práctica de un curso de Data Analitycs que hice. 
